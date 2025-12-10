@@ -10,8 +10,8 @@ This space is where I experiment — building small tools, APIs, and prototypes 
 - Blend marketing strategy with data architecture and product thinking  
 
 ### ⚡ Current projects
-- **Customer Cloud** — live JSON API powering Neo4j’s reference library  
+- **Customer Reference Agent** — ADK Slack Agent powered by Neo4j GraphDB vector-cypher retrieval + Gemini
+- **Blueprint Builder** — a microapp that turns case studies into playbooks
 - **Graph100** — interactive index of Neo4j’s top customer stories  
-- **Blueprint Builder** — a microapp that turns case studies into playbooks  
 
 > “Marketers who understand systems think in graphs.”
